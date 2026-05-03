@@ -33,8 +33,6 @@ Here's a quick overview of the tools, languages, and frameworks I use regularly 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black)
 ![SFML](https://img.shields.io/badge/SFML-008080?style=for-the-badge&logo=cpp&logoColor=white)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seahsongli)](https://github.com/seahsongli)
 <!--
 **seahsongli/seahsongli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
